@@ -1,4 +1,5 @@
-### Hi there 👋
+### Recently completed Full-Stack Bootcamp at the University of Califorinia, Irvine.  
+### I'm currently working on projects and seeking employment.
 
 <!--
 **Greg-Sam/Greg-Sam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
