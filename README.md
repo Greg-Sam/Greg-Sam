@@ -1,5 +1,5 @@
 ### Recently completed Full-Stack Bootcamp at the University of Califorinia, Irvine.  
-Currently working on some amazing apps and available for freelance work.  IF you have an idea for a website or an app that you need help making a reality, get in touch.  I can help.
+Currently working on some amazing apps and available for freelance work.  If you have an idea for a website or an app that you need help making a reality, get in touch.  I can help.
 
 ### Languages and Tools:
 
