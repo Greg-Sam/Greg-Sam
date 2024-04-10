@@ -24,6 +24,7 @@ Currently working on some amazing apps and available for freelance work.  If you
 <img align="left" alt="mongodb" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
 
 <img align="left" alt="react" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+<img align="left" alt="nextjs" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
 
 <br />
 
