@@ -28,6 +28,9 @@ Currently working on some amazing apps and available for freelance work.  If you
 
 <img align="left" alt="vercel" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg"/>
 <img align="left" alt="typescript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+<img align="left" alt="google cloud" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"/>
+
 
 <br />
 
